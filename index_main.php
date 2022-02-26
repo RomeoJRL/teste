@@ -58,6 +58,7 @@
       </p>
       <a href="javascript:void(0)" onclick="openProf()">click me!</a>
       <div id="prof" class="pclass">
+        <br><br>
         <!--
         <form action="">
          <fieldset style="  border: 1px solid rgb(87, 164, 187); visibility: hidden;overflow: hidden; width: 60vw;height: 20vh;text-align: center;" id="fds"><legend>J'aimerais te connaitre d'avantage</legend></fieldset>
