@@ -21,7 +21,7 @@
       overflow: hidden;
       visibility: hidden;
       height: 0;
-      padding-top: 7vh;
+   
     }
 
     .pclass img {

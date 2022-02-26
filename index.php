@@ -45,7 +45,7 @@
       <h2>Welcome  </h2> 
       <h3>Click On The Button to Start</h3>
      
-      <a href="index_main.html" onclick="openProf()">EXPLORE</a>
+      <a href="index_main.php" onclick="openProf()">EXPLORE</a>
     </div>
     </div>
 

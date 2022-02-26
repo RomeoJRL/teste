@@ -10,7 +10,7 @@
 
 .calendar{
   position: relative;
-  width: 35%;
+  width: 65%;
   
 }
 
@@ -25,7 +25,7 @@
   backdrop-filter: blur(15px);
   border-bottom: 6px solid #67c5eb;
   border-right: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: 8px;
+  border-radius: 8px 0 0 8px;
   box-shadow: 0 5px 25px rgb(1 1 1 / 15%);
   justify-content: space-between;
 }
@@ -40,7 +40,7 @@
   font-weight: 400;
   
   border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
+  border-top-right-radius: 0px;
 }
 
 .calendar .calendar-body .day-name{

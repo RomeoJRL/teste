@@ -16,17 +16,17 @@
   font-style: italic;
   opacity: 1;
   color: #fff;
-  padding: 4rem 10% 5.5rem;
+  padding: 0rem 10% 0 0;
   border: 0.07rem solid #fff;
   background: rgba(255, 255, 255, 0.1);
-  border-radius: 20vw;
+  border-radius: 8px;
   text-transform: uppercase;
   display: flex;
   align-items:  center;
   justify-content: space-between;
   animation: flicker 10000005s infinite alternate;     
   font-family: 'Exo 2', sans-serif;
-  width: 72vw;
+  width: 65vw;
 }
 
 h1::-moz-selection {
