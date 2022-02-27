@@ -88,7 +88,7 @@
 
           <iframe  width=88% height="250px" style="margin-top: 80px;border-radius: 18px;"
            src="https://www.youtube.com/embed/Z-ln__MWpKA?autoplay=1&mute=1"
-           title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+           title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=1;
             clipboard-write; encrypted-media; gyroscope; picture-in-picture"
              allowfullscreen></iframe>
       
