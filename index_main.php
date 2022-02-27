@@ -75,11 +75,11 @@
                 <span class="year">0000</span>
               </div>
             </div>
-            <div style=" font-size: clamp(1em,4vw,4em);text-align: center;" class="hpy">Happy SUNDAY <br>ETI</div>
+            <div style=" font-size: clamp(1em,4vw,4em);text-align: center;" class="hpy">Happy SUNDAY <br>SOULEY</div>
           </div>
         </div>
 
-        <div class="lgd">Good start of Lent to all Christians in the world <br>may the love of God be our sharing</div>
+        <div class="lgd">BELIEVE IN YOUR DREAMS AND THEY CAN COME TRUE.<br> BELIEVE IN YOURSELF AND THEY SURELY WILL ACHIEVE </div>
         
           <!--<iframe width=88% height="250px" style="margin-top: 80px;border-radius: 18px;" src="https://www.youtube.com/embed/watch?v=mAymPuqzibA&t=31s">
           </iframe>-->
@@ -92,6 +92,10 @@
             clipboard-write; encrypted-media; gyroscope; picture-in-picture"
              allowfullscreen></iframe>
       
+
+             <iframe  style="margin-top: 80px;border-radius: 18px;width: 80vw;" height="300" src="https://www.youtube.com/embed/g2nrwNET_Bc?autoplay=1&mute=1" title="YouTube video player"
+               frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; 
+               picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
 <!--https://www.youtube.com/embed/aiSaMoOPhQA-----?autoplay=1&mute=1-->
