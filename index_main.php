@@ -21,7 +21,7 @@
       overflow: hidden;
       visibility: hidden;
       height: 0;
-   
+
     }
 
     .pclass img {
@@ -47,7 +47,7 @@
       <h2 class="logo">Copyright &copy; by <i>JRL</i></h2>
     </header>
     <video
-      src="https://media.istockphoto.com/videos/global-connection-and-the-internet-network-modernization-in-smart-video-id1302928831?s=256_srp_is"
+      src="https://media.gettyimages.com/videos/world-network-loop-video-id175374484"
       muted loop autoplay></video>
     <div class="overlay"></div>
     <div class="text">
@@ -75,12 +75,26 @@
                 <span class="year">0000</span>
               </div>
             </div>
-            <div style=" font-size: clamp(1em,4vw,4em);text-align: center;" class="hpy">Happy birthday <br>REMY</div>
+            <div style=" font-size: clamp(1em,4vw,4em);text-align: center;" class="hpy">Happy SUNDAY <br>ETI</div>
           </div>
         </div>
+
+        <div class="lgd">Good start of Lent to all Christians in the world <br>may the love of God be our sharing</div>
+        
+          <!--<iframe width=88% height="250px" style="margin-top: 80px;border-radius: 18px;" src="https://www.youtube.com/embed/watch?v=mAymPuqzibA&t=31s">
+          </iframe>-->
+
+    
+
+          <iframe  width=88% height="250px" style="margin-top: 80px;border-radius: 18px;"
+           src="https://www.youtube.com/embed/Z-ln__MWpKA?autoplay=1&mute=1"
+           title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+            clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+             allowfullscreen></iframe>
+      
       </div>
     </div>
-
+<!--https://www.youtube.com/embed/aiSaMoOPhQA-----?autoplay=1&mute=1-->
 
     <ul class="social">
       <li><a href="#"><img src="https://i.ibb.co/x7P24fL/facebook.png"></a></li>
